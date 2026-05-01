@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+*~
+
+# Privado — no se publica en el repo público
+inbox-private/
+drafts/
+*.private.md
+INBOX.md

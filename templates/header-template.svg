@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Plantilla SVG sobria del banner mensual.
+  Para usar:
+    1. Copiar a ../assets/header-<aaaa-mm>.svg
+    2. Sustituir {{Mes AAAA}} por el mes en curso (p. ej. "Mayo 2026").
+    3. No tocar el resto.
+  Dimensiones: 1280x320, formato OG estándar de GitHub.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Notes on SLM — {{Mes AAAA}}">
+  <rect width="1280" height="320" fill="#fafafa"/>
+
+  <rect x="80" y="80" width="40" height="3" fill="#1a1a1a"/>
+
+  <text x="80" y="170"
+        font-family="-apple-system, BlinkMacSystemFont, 'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-size="64" font-weight="600" fill="#1a1a1a"
+        letter-spacing="-1">Notes on SLM</text>
+
+  <text x="80" y="220"
+        font-family="-apple-system, BlinkMacSystemFont, 'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-size="32" font-weight="400" fill="#555555">{{Mes AAAA}}</text>
+
+  <text x="80" y="280"
+        font-family="-apple-system, BlinkMacSystemFont, 'IBM Plex Sans', 'Inter', 'Helvetica Neue', Arial, sans-serif"
+        font-size="13" font-weight="500" fill="#888888"
+        letter-spacing="2">NOTES ON AI AND DATA · ALEXANDRA RODRÍGUEZ</text>
+
+  <rect x="80" y="296" width="1120" height="1" fill="#e0e0e0"/>
+</svg>
