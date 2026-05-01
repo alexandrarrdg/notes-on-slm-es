@@ -125,7 +125,7 @@ publica lo que pasa el filtro editorial.
 - ENISA — informes sobre seguridad de IA.
 - BOE — alertas filtradas por *inteligencia artificial*.
 
-¿Falta alguna fuente? Ver [Sugerencias](#sugerencias).
+¿Falta alguna fuente? [Sugerir una fuente](https://github.com/alexandrarrdg/notes-on-slm-es/issues/new?labels=fuente-sugerida&title=Fuente+sugerida%3A+&body=URL+de+la+fuente+primaria%3A+%0A%0AQu%C3%A9+publica+%28papers%2C+releases%2C+blog%2C+regulaci%C3%B3n%29%3A+%0A%0APor+qu%C3%A9+merece+entrar+en+el+radar%3A+).
 
 ## Ejes temáticos
 
@@ -195,9 +195,12 @@ empleador ni cliente. Las opiniones expresadas son mías.
 ## Sugerencias
 
 ¿Echas en falta una fuente, un paper o un *release* que merezca
-estar en el radar? Abre una *Issue* con la etiqueta
-`fuente-sugerida` y un enlace a la fuente primaria. Sin
-recomendaciones de productos ni servicios.
+estar en el radar?
+
+[**Sugerir una fuente**](https://github.com/alexandrarrdg/notes-on-slm-es/issues/new?labels=fuente-sugerida&title=Fuente+sugerida%3A+&body=URL+de+la+fuente+primaria%3A+%0A%0AQu%C3%A9+publica+%28papers%2C+releases%2C+blog%2C+regulaci%C3%B3n%29%3A+%0A%0APor+qu%C3%A9+merece+entrar+en+el+radar%3A+) — abre un *Issue* con la
+etiqueta y la plantilla básica ya rellenadas.
+
+Sin recomendaciones de productos ni servicios.
 
 ## Licencia
 
